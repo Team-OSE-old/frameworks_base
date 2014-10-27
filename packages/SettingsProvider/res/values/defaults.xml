@@ -197,4 +197,7 @@
     <!-- Default Blacklist values of Settings.System.HEADS_UP_NOTIFICATION -->
     <string name="def_heads_up_notification_blacklist_values"></string>
 
+    <!-- Fade the screen off by default -->
+    <integer name="def_screen_animation_style">1</integer>
+
 </resources>
